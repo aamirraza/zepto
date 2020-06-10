@@ -8,7 +8,7 @@
         "dist": "coffee make dist",
         "start": "coffee test/server.coffee"
     },
-    "repository": "madrobby/zepto",
+    "repository": "aamirraza/zepto",
     "license": "MIT",
     "devDependencies": {
         "uglify-js": "2.4.x",
